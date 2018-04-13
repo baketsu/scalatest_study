@@ -1,16 +1,10 @@
 [info] scalastyle using config C:\Data\Develop\scalatest_study\scalastyle-config.xml
 [debug] Starting scalastyle
 [debug] start file C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala
-[warn] C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala:23:29: Magic Number
-[warn] C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala:26:31: Magic Number
-[warn] C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala:20:24: Regular expression matched 'println'
-[warn] C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala:23:14: Regular expression matched 'println'
-[warn] C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala:26:13: Regular expression matched 'println'
 [debug] end file C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala
 [info] scalastyle Processed 1 file(s)
 [info] scalastyle Found 0 errors
-[info] scalastyle Found 5 warnings
+[info] scalastyle Found 0 warnings
 [info] scalastyle Found 0 infos
-[info] scalastyle Finished in 1 ms
+[info] scalastyle Finished in 5 ms
 [success] created output: C:\Data\Develop\scalatest_study\target
-[warn] warnings exist

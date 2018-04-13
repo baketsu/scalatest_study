@@ -18,12 +18,15 @@ object main{
   def main(args: Array[String]): Unit ={
     val calc = new Calc
     val result1 = calc.sum(Seq(1,2,3))
-    println("sum:result = " + result1.toString() )
+    println("sum:result = " + result1)
 
-    val result2 = calc.div(3,6)
+    val num = 3
+    val den = 6
+    val result2 = calc.div(num, den)
     println("div:result = " + result2.toString())
 
-    val result3 = calc.isPrime(5)
+    val number = 5
+    val result3 = calc.isPrime(number)
     println("isPrime:result = " + result3.toString())
   }
 }
