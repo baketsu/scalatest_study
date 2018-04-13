@@ -1,0 +1,86 @@
+<scoverage 
+statement-count="19" statements-invoked="19" statement-rate="100.00" branch-rate="100.00" version="1.0" timestamp="1523587234570">
+    <packages>
+        <package name="&lt;empty&gt;" statement-count="19" statements-invoked="19" statement-rate="100.00">
+            <classes>
+                <class 
+                name="Calc" filename="Calc.scala" statement-count="19" statements-invoked="19" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/Calc/isPrime" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="isPrime" start="555" end="565" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="isPrime" start="502" end="507" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="isPrime" start="523" end="524" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="isPrime" start="509" end="514" line="20" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="isPrime" start="528" end="546" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="isPrime" start="520" end="567" line="20" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="isPrime" start="520" end="567" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="isPrime" start="509" end="514" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="isPrime" start="538" end="539" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Calc/sum" statement-count="3" statements-invoked="3" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="sum" start="144" end="149" line="7" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="sum" start="141" end="142" line="7" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="sum" start="128" end="150" line="7" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Calc/div" statement-count="7" statements-invoked="7" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="div" start="297" end="297" line="14" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="div" start="318" end="360" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="div" start="300" end="316" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="div" start="297" end="297" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="div" start="366" end="407" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="div" start="387" end="407" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" full-class-name="Calc" source="C:\Data\Develop\scalatest_study\src\main\scala\Calc.scala" method="div" start="318" end="360" line="14" branch="true" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

@@ -1,0 +1,5 @@
+[info] [info] Cleaning datadir [C:\Data\Develop\scalatest_study\target\scala-2.12/scoverage-data]
+[info] [info] Beginning coverage instrumentation
+[info] [info] Instrumentation completed [19 statements]
+[info] [info] Wrote instrumentation file [C:\Data\Develop\scalatest_study\target\scala-2.12\scoverage-data\scoverage.coverage.xml]
+[info] [info] Will write measurement data to [C:\Data\Develop\scalatest_study\target\scala-2.12/scoverage-data]

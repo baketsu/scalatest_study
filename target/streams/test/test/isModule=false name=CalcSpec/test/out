@@ -1,0 +1,12 @@
+[info] CalcSpec:
+[info] sum関数
+[info] - should 整数の配列を取得し、それらを足し合わせた整数を返すことができる
+[info] - should Intの最大を上回った際にはオーバーフローする
+[info] div関数
+[info] - should 整数を2つ受け取り、分子を分母で割った浮動小数点の値を返す
+[info] - should 0で割ろうとした際には実行時例外が投げられる
+[info] isPrime関数
+[info] - should その値が素数であるかどうかのブール値を返す
+[info] - should 100万以下の値の素数判定を一秒以内で処理できる
+[info] Calc のモックオブジェクト
+[info] - should 振る舞いを偽装することができる

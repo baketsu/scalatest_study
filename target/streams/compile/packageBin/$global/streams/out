@@ -1,0 +1,9 @@
+[info] Packaging C:\Data\Develop\scalatest_study\target\scala-2.12\scalatest_study_2.12-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Calc.class
+[debug] 	  C:\Data\Develop\scalatest_study\target\scala-2.12\classes\Calc.class
+[debug] 	main$.class
+[debug] 	  C:\Data\Develop\scalatest_study\target\scala-2.12\classes\main$.class
+[debug] 	main.class
+[debug] 	  C:\Data\Develop\scalatest_study\target\scala-2.12\classes\main.class
+[info] Done packaging.
